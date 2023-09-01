@@ -3,7 +3,7 @@ import React from "react";
 
 const CustomFallbackUI = () => (
   <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
-    <h1 className="text-3xl font-bold text-red-500">Oops!</h1>
+    <h1 className="text-5xl font-bold text-pink-500">Whoops!</h1>
     <p className="mt-4 text-lg text-gray-700">
       Something went wrong. We're working on fixing it. Please try again later.
     </p>
